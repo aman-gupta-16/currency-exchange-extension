@@ -1,0 +1,13 @@
+{
+  "name": "currency converter",
+  "version": "1.0.0",
+  "description": "this extensions converter is used to convert currency values",
+  "main": "app.js",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png",
+    "default_title": "currency converter"
+  },
+  "author": "Aman_Gupta"
+}
